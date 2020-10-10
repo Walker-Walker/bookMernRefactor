@@ -48,7 +48,7 @@ input BookInput {
 
 `
 
-
+module.exports = typeDefs;
 // Query type:
 
 // me: Which returns a User type.
