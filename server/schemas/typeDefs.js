@@ -22,7 +22,7 @@ image: String
 link: String
 title: String!
 authors:[String]
-description:[String!]
+description:String!
 }
 
 type Auth {
